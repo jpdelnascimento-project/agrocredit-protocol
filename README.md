@@ -98,6 +98,4 @@ web3-protocol/
 ```
 
 ## Autor
-
-João Pedro del Nascimento
-Curso Web 3.0 — Residência em TIC 29
+João Paulo do Nascimento
