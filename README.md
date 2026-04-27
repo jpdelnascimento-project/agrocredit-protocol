@@ -1,6 +1,6 @@
 # AgroCredit Protocol
 
-MVP de protocolo descentralizado de crédito rural desenvolvido como trabalho acadêmico para o curso Web 3.0 — Residência em TIC 29 (Unidade 1, Capítulo 5).
+MVP de protocolo descentralizado de crédito rural desenvolvido como trabalho acadêmico para o curso Web 3.0 — Residência em TIC 29.
 
 ## Problema resolvido
 
